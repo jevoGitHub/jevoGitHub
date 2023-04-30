@@ -7,10 +7,10 @@
 -->
 
 <p>
- Since childhood, I have had a passion for creating and discovering how things work. From building elaborate stories and tales to later pursuing a college degree in interactive media design, I felt a strong desire to create. However, this was not enough, I felt the need to understand the back-end processes of what drives people and society. This led me to switch to entrepreneurship and business and pursued a degree in operations management 
+ From a young age, I've loved expressing myself creatively and sharing my ideas with others.  As I grew older, I realized that my true passion lay in the process of creation, leading me to pursue a degree in interactive media design, then business. During my studies, I discovered the powerful impact that technology could have in transforming the world around us.
 </p>
 <p>
-Yet, I still felt something was missing. With time, I finally came to realize what I had longed for that passion to transport people away from mundane life and create new possibilities for them. This led to my journey into software engineering, which became my life's purpose and story. The story of pursuing passion and purpose and making everyone's ambition along with my own, a reality. This then begs the question, what part of this journey will you be a part of?
+ Inspired then by the idea of using infrastructure to transport people from the ordinary to the extraordinary, I delved into full-stack software engineering. Today, I am dedicated to helping people pursue their passions and making everyone's ambitions a reality. With me on your team, each day brings us one step closer to building a future to be proud of. 
 </p>
 
 # Skills
